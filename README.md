@@ -7,3 +7,5 @@ Link  Base de Datos
 https://drive.google.com/file/d/1P6JRb6yntRjSXqp6KfqbOsP7_GqMRyc2/view?usp=sharing
 
 Se trabaja con SQLite desde python, se muestra algunos ejemplos.
+
+![Image text]()
