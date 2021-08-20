@@ -8,4 +8,4 @@ https://drive.google.com/file/d/1P6JRb6yntRjSXqp6KfqbOsP7_GqMRyc2/view?usp=shari
 
 Se trabaja con SQLite desde python, se muestra algunos ejemplos.
 
-![Image text]()
+![Image text](https://github.com/Oswaldoivann/Covid-19-db/blob/main/SQLite3.png)
